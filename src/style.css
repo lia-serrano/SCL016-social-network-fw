@@ -1,0 +1,35 @@
+html {
+  width: 265px;
+  height: 425px;
+  
+  background: rgba(250, 210, 229, 0.76);
+  background-repeat: no-repeat;
+}
+
+#accoText {
+  width: 131px;
+  height: 16px;
+  left: 61px;
+  top: 120px;
+  
+  font-family: 'Lobster', cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: rgba(116, 0, 156, 0.61);
+}
+
+#emailEntry, #passEntry, #nameCreate, #emailCreate, #passCreate, #postText {
+  width: 216px;
+  height: 28px;
+  left: 24px;
+  top: 150px;
+
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+}

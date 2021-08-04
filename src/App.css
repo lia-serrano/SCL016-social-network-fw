@@ -1,0 +1,26 @@
+body {
+  width: 265px;
+  height: 425px;
+  background: rgba(255, 199, 225, 0.877);
+}
+
+h2 {
+  font-family: Sansita;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: rgba(116, 0, 156, 0.61);
+}
+
+.like, .edit, .delete {
+  width: 13px;
+  height: 13px;
+  left: 219px;
+  top: 338px;
+
+}
